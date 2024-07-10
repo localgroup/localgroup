@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @localgroup
+- 👋 Hi, I’m Rajdeep 😀
 - 👀 I’m mostly interested in physics, philosophy, pychology, and programming. Bunch of p's though😊😉!
 - 🌱 I’m currently learning how to code and how to data science.
 - 💞️ I’m looking to collaborate on projects that would help me build my muscle 😉.
