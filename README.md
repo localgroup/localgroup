@@ -12,7 +12,6 @@ Passionate and innovative Python developer with a strong background in Python, D
 - 🌱 Expanding my skills in **ReactJs** and **Django**
 - 💡 Proficient in both frontend and backend development
 - 🤖 Enthusiastic about Machine Learning and Neural Networks
-- 🤝 Looking for collaboration on my [ChatBot](https://github.com/localgroup/Chatbot) project
 
 ## 🛠️ Skills & Experiences
 
