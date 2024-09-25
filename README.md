@@ -8,7 +8,7 @@
 
 Passionate and innovative Python developer with a strong background in Python, Django, Django Rest Framework, MERN stack, and JavaScript. Experienced in machine learning and neural networks, with a proven ability to collaborate effectively with high-performing teams. Eager to contribute to cutting-edge projects and drive technological advancements.
 
-- 🚀 Currently working on [WishBox](https://github.com/localgroup/WishBox), a full-featured e-commerce platform
+- 🚀 Currently working on [WishBox](https://github.com/localgroup/WishBox), a full-featured e-commerce platform and [ConnectX](https://github.com/localgroup/ConnectX), a micro-blogging platform.
 - 🌱 Expanding my skills in **ReactJs** and **Django**
 - 💡 Proficient in both frontend and backend development
 - 🤖 Enthusiastic about Machine Learning and Neural Networks
