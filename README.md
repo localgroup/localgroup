@@ -1,71 +1,126 @@
-# 👋 Hi there, I'm Rajdeep
+# 👋 Hi, I am Rajdeep
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rajdeep_bhatta?logo=twitter&style=for-the-badge)](https://twitter.com/rajdeep_bhatta)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajdeep-bhatta)
-[![GitHub followers](https://img.shields.io/github/followers/localgroup?logo=GitHub&style=for-the-badge)](https://github.com/localgroup)
+AI Engineer building practical LLM applications, intelligent automation, and production-ready AI systems.
 
-## 👨‍💻 About Me
-
-Passionate and innovative Python developer with a strong background in Python, Django, Django Rest Framework, MERN stack, and JavaScript. Experienced in machine learning and neural networks, with a proven ability to collaborate effectively with high-performing teams. Eager to contribute to cutting-edge projects and drive technological advancements.
-
-- 🚀 Currently working on [WishBox](https://github.com/localgroup/WishBox), a full-featured e-commerce platform and [ConnectX](https://github.com/localgroup/ConnectX), a micro-blogging platform.
-- 🌱 Expanding my skills in **ReactJs** and **Django**
-- 💡 Proficient in both frontend and backend development
-- 🤖 Enthusiastic about Machine Learning and Neural Networks
-
-## 🛠️ Skills & Experiences
-
-- **Web Development:** Built full-stack applications using Django, React, and Node.js, including e-commerce platforms with user authentication, shopping cart systems, and order management
-- **API Development:** Designed and implemented RESTful APIs using Django REST Framework, enabling seamless integration of front-end and back-end systems
-- **Data Analysis & Visualization:** Utilized Python libraries like Pandas, NumPy, Matplotlib, and Seaborn for data manipulation and insightful visualizations
-- **Machine Learning:** Developed classification models using scikit-learn, implemented neural networks with TensorFlow and Keras
-- **Natural Language Processing:** Created chatbots and conducted sentiment analysis using NLTK, SpaCy, and advanced NLP techniques
-- **Database Management:** Worked with SQLite, MySQL, PostgreSQL, and MongoDB, performing complex queries and data modeling
-- **Version Control & Collaboration:** Proficient in Git and GitHub for efficient code management and team collaboration
-- **UI/UX Design:** Designed intuitive user interfaces using Tkinter and web technologies (HTML, CSS, JavaScript)
-- **Testing & Debugging:** Experienced in unit testing, integration testing, and using tools like Postman and Selenium for API and UI testing
-
-## 🎓 Certifications
-
-- Python Pro Bootcamp
-- Data Analysis with Python
-- Web Development Bootcamp (MERN stack)
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-</p>
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-  
-  [![Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=localgroup&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=localgroup&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-<details>
-  <summary>🏆 GitHub Trophies</summary>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=localgroup&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
+I enjoy turning research into software that solves real problems by combining machine learning, backend engineering, and Generative AI.
 
 ---
 
-⭐️ From [Rajdeep](https://github.com/localgroup)
+# 👨‍💻 About Me
+
+I am an AI Engineer with a strong foundation in Python backend development and hands-on experience across the Generative AI lifecycle.
+
+My work spans LLM evaluation, prompt engineering, AI safety, Retrieval-Augmented Generation (RAG), backend engineering, model development workflows, and AI infrastructure.
+
+### Currently Focused On
+
+- Applied AI
+- Generative AI
+- Large Language Models (LLMs)
+- AI Agents & Agentic Workflows
+- Retrieval-Augmented Generation (RAG)
+- Production AI Systems
+
+---
+
+# 💼 Experience
+
+## AI Research Associate | Keywords Studios
+
+Working across multiple stages of the Generative AI development lifecycle, including model evaluation, training data preparation, fine-tuning support, and deployment validation.
+
+### Highlights
+
+- Evaluated Large Language Models (LLMs) for reasoning, factual accuracy, safety, instruction following, and domain-specific tasks.
+- Designed prompts, annotation guidelines, and evaluation rubrics to improve model quality.
+- Prepared high-quality datasets, annotations, and feedback for model training and fine-tuning workflows.
+- Supported model fine-tuning through structured annotations, data validation, and quality assurance.
+- Participated in deployment validation and testing of cloud-hosted AI models before production release.
+- Performed failure-mode analysis, hallucination detection, and quality assessment across multilingual and multimodal datasets.
+- Collaborated with cross-functional teams to improve model reliability, alignment, and overall performance.
+
+---
+
+# 🚀 What I Build
+
+- Production-ready LLM Applications
+- AI-powered Backend Services
+- Retrieval-Augmented Generation (RAG) Systems
+- AI Evaluation Pipelines
+- Prompt Engineering Frameworks
+- Agentic AI Workflows
+- Intelligent Automation Solutions
+- REST APIs for AI Products
+
+---
+
+# 🛠 Core Skills
+
+## Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Prompt Architecture
+- AI Agents
+- Agentic AI
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Embeddings
+- Structured Outputs
+- Function Calling
+- LLM Evaluation
+- Model Fine-tuning Workflows
+- AI Model Training Workflows
+- AI Safety
+- Hallucination Detection
+- Alignment
+
+## AI Frameworks
+- LangChain
+- LangGraph
+- Hugging Face Transformers
+- OpenAI API
+- Ollama
+- Sentence Transformers
+
+## Machine Learning
+- Python
+- TensorFlow
+- Scikit-learn
+- Keras
+- Pandas
+- NumPy
+
+## Backend
+- Django
+- Django REST Framework
+- Flask
+- FastAPI
+- REST APIs
+
+## Databases
+- PostgreSQL
+- MongoDB
+- SQLite
+- MySQL
+- ChromaDB
+- FAISS
+
+## Cloud & DevOps
+- Docker
+- Git
+- GitHub
+- Linux
+- Cloud Deployment
+- CI/CD
+- Postman
+
+## Frontend
+- React
+- JavaScript
+- HTML
+- CSS
+
+---
+
+⭐ Building AI systems that move beyond demos into real-world applications.
