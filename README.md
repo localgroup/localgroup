@@ -1,126 +1,58 @@
-# 👋 Hi, I am Rajdeep
+# Hi, I'm Rajdeep 👋
 
-AI Engineer building practical LLM applications, intelligent automation, and production-ready AI systems.
+AI Engineer specializing in **LLM evaluation, safety, and failure-mode analysis** — building applied Generative AI systems and shipping full-stack software end to end.
 
-I enjoy turning research into software that solves real problems by combining machine learning, backend engineering, and Generative AI.
-
----
-
-# 👨‍💻 About Me
-
-I am an AI Engineer with a strong foundation in Python backend development and hands-on experience across the Generative AI lifecycle.
-
-My work spans LLM evaluation, prompt engineering, AI safety, Retrieval-Augmented Generation (RAG), backend engineering, model development workflows, and AI infrastructure.
-
-### Currently Focused On
-
-- Applied AI
-- Generative AI
-- Large Language Models (LLMs)
-- AI Agents & Agentic Workflows
-- Retrieval-Augmented Generation (RAG)
-- Production AI Systems
+I spend my workdays finding where AI systems fail, and my own time building software that shouldn't.
 
 ---
 
-# 💼 Experience
+## 🔭 Currently
 
-## AI Research Associate | Keywords Studios
-
-Working across multiple stages of the Generative AI development lifecycle, including model evaluation, training data preparation, fine-tuning support, and deployment validation.
-
-### Highlights
-
-- Evaluated Large Language Models (LLMs) for reasoning, factual accuracy, safety, instruction following, and domain-specific tasks.
-- Designed prompts, annotation guidelines, and evaluation rubrics to improve model quality.
-- Prepared high-quality datasets, annotations, and feedback for model training and fine-tuning workflows.
-- Supported model fine-tuning through structured annotations, data validation, and quality assurance.
-- Participated in deployment validation and testing of cloud-hosted AI models before production release.
-- Performed failure-mode analysis, hallucination detection, and quality assessment across multilingual and multimodal datasets.
-- Collaborated with cross-functional teams to improve model reliability, alignment, and overall performance.
+- Evaluating LLMs for reasoning, safety, and domain-specific performance as an **AI Research Associate at Keywords Studios**
+- Designing structured and adversarial prompt workflows, evaluation rubrics, and annotation frameworks used across distributed teams
+- Building end-to-end Generative AI systems — RAG pipelines, retrieval chains, and agentic workflows
+- Deepening focus on agentic RAG, MCP, and context engineering
 
 ---
 
-# 🚀 What I Build
+## 🧰 Core Skills
 
-- Production-ready LLM Applications
-- AI-powered Backend Services
-- Retrieval-Augmented Generation (RAG) Systems
-- AI Evaluation Pipelines
-- Prompt Engineering Frameworks
-- Agentic AI Workflows
-- Intelligent Automation Solutions
-- REST APIs for AI Products
+**AI / LLM Evaluation** — Prompt Architecture · Adversarial Testing · Failure-Mode Analysis · Hallucination & Safety Detection · Annotation Frameworks · Scoring Rubric Design · Dataset Quality Control
 
----
+**Generative AI** — LangChain · Hugging Face Transformers · Retrieval-Augmented Generation · FAISS · Chroma · OpenAI & Groq APIs · Streamlit
 
-# 🛠 Core Skills
+**Backend** — Python · Django · Django REST Framework · FastAPI · Flask · REST APIs · JWT Auth
 
-## Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Prompt Architecture
-- AI Agents
-- Agentic AI
-- Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search
-- Embeddings
-- Structured Outputs
-- Function Calling
-- LLM Evaluation
-- Model Fine-tuning Workflows
-- AI Model Training Workflows
-- AI Safety
-- Hallucination Detection
-- Alignment
+**Frontend** — React (Hooks) · JavaScript · HTML/CSS · Bootstrap · Tailwind
 
-## AI Frameworks
-- LangChain
-- LangGraph
-- Hugging Face Transformers
-- OpenAI API
-- Ollama
-- Sentence Transformers
+**Data / ML** — Pandas · NumPy · Scikit-learn · Keras · SQL
 
-## Machine Learning
-- Python
-- TensorFlow
-- Scikit-learn
-- Keras
-- Pandas
-- NumPy
-
-## Backend
-- Django
-- Django REST Framework
-- Flask
-- FastAPI
-- REST APIs
-
-## Databases
-- PostgreSQL
-- MongoDB
-- SQLite
-- MySQL
-- ChromaDB
-- FAISS
-
-## Cloud & DevOps
-- Docker
-- Git
-- GitHub
-- Linux
-- Cloud Deployment
-- CI/CD
-- Postman
-
-## Frontend
-- React
-- JavaScript
-- HTML
-- CSS
+**Databases & Tools** — PostgreSQL · MongoDB · Git · GitHub · Docker · Postman
 
 ---
 
-⭐ Building AI systems that move beyond demos into real-world applications.
+## 🚀 Featured Projects
+
+### [RAG Document Q&A Chatbot](https://github.com/localgroup/RAG_ChatBot_QA)
+Streamlit app for question-answering over research paper PDFs — PDF ingestion, chunking, and embedding-based vector search feeding Groq-hosted LLMs through LangChain retrieval chains, with conversational history, source display, and cached vector store creation for reliability.
+`Python` `LangChain` `Groq` `Hugging Face` `FAISS/Chroma` `Streamlit`
+
+### [Cartify](https://github.com/localgroup/WishBox)
+Full-featured e-commerce platform with authentication, profile management, shopping cart, order processing, and payment gateway integration.
+`Python` `Django` `PostgreSQL` `Bootstrap` `JavaScript`
+
+### [Threadly](https://github.com/localgroup/ConnectX)
+Microblogging platform with JWT authentication, posts, likes, and comments — a RESTful API layer over a React front end with reusable hooks.
+`Django REST Framework` `React.js` `PostgreSQL` `JWT` `Tailwind`
+
+### [Asteroid Hazard Classification](https://github.com/localgroup/Asteroid-Classification-Using-Machine-Learning)
+Classification pipeline on NASA's Near-Earth Object dataset to flag hazardous asteroids — feature engineering plus Decision Tree and Random Forest models, evaluated on accuracy, recall, and F1, with feature-importance visualization for interpretability.
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+---
+
+## 📫 Reach Me
+
+- ✉️ [rajdeepbhattacharjee6@gmail.com](mailto:rajdeepbhattacharjee6@gmail.com)
+- 💼 LinkedIn — https://www.linkedin.com/in/rajdeep-bhatta/
+
