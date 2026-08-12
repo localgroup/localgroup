@@ -91,5 +91,3 @@ Python Programming · Data Analysis with Python · Web Development · Generative
 
 - ✉️ [rajdeepbhattacharjee6@gmail.com](mailto:rajdeepbhattacharjee6@gmail.com)
 - 💼 [linkedin.com/in/rajdeepbhatta](https://www.linkedin.com/in/rajdeep-bhatta/)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=localgroup&show_icons=true&theme=transparent)
